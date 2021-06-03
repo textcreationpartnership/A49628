@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last and truest discovery of the Popish-plot by Rumsey, West, and other great patriots of their countrey</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49628</idno><idno type="EEBO-CITATION">12696712</idno>
+  <idno type="VID">65882</idno>
+  <idno type="EEBO-PROQUEST">2241009500</idno>
+  
+            <idno type="STC">Wing L473</idno>
+            <idno type="STC">ESTC R32453</idno>
+            <idno type="OCLC">12696712</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1529:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last and truest discovery of the Popish-plot by Rumsey, West, and other great patriots of their countrey</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:65882:1"/>
+            <head>The Last and Truest Discovery OF THE POPISH-PLOT, By <hi>RƲMSEY, WEST,</hi> and other great Pa<g ref="char:EOLhyphen"/>triots of their COUNTREY.</head>
+            <lg>
+               <l>BUt Oh! This late Conspiracy, so Dire</l>
+               <l>(By Providence prevented by a <hi>FIRE,</hi>)</l>
+               <l>No Age can parallel; so Black Design</l>
+               <l>The fiercest Furies, (could not place a Mine,)</l>
+               <l>From their dark <hi>Caves,</hi> to give so great a blow,</l>
+               <l>And at one Burst, <hi>Three Kingdoms</hi> overthow!</l>
+               <l>Merciless Flames we'll now Innocent call,</l>
+               <l>Since <hi>FIRES allarum</hi> hath preserv'd Us all;</l>
+               <l>Thrice <hi>Happy Fire of Providence,</hi> whose Good</l>
+               <l>Was Bon-fire for the saving <hi>Royal Blood;</hi>
+               </l>
+               <l>Heav'n forc'd their Safety, drove Them from that place,</l>
+               <l>That They might Live to see a <hi>longer Race.</hi>
+               </l>
+               <l>What desperate, despairing damned Crew</l>
+               <l>Would Fell the <hi>Royal Oaks,</hi> Plant cursed <hi>Yew?</hi>
+               </l>
+               <l>Did <hi>Shaft, bury</hi> descend into the Pit,</l>
+               <l>And <hi>Pluto</hi>'s <hi>President of War</hi> doth sit?</l>
+               <l>Are <hi>Sheriffs, Juries,</hi> and his <hi>perjur'd Slaves,</hi>
+               </l>
+               <l>All silent <hi>Now,</hi> as They were in their Graves?</l>
+               <l>No; Thou retain'st thy Counsel at the Bar,</l>
+               <l>And <hi>[Good-enough]</hi> to make a <hi>Civil War:</hi>
+               </l>
+               <l>Tho' thou canst not return, hast none to send?</l>
+               <l>
+                  <hi>Murder</hi> and <hi>Treason</hi> thou hast left thy Friend:</l>
+               <l>Thy Breath, O <hi>British Scylla,</hi> still remains,</l>
+               <l>Whose Poyson stagnates your ill Livers Veins;</l>
+               <l>Thou, damn'd <hi>Achitophel,</hi> counsel'dst a <hi>Vote,</hi>
+               </l>
+               <l>If the KING dy'd, to cut the <hi>Papists</hi> Throat;</l>
+               <l>Nay, if a House by accident was fir'd,</l>
+               <l>From <hi>Them</hi> must reparation be requir'd.</l>
+               <l>Impostor-Hypocrites! Invent a PLOT,</l>
+               <l>Deceive the <hi>Mobile,</hi> and League the <hi>Scot,</hi>
+               </l>
+               <l>Then Loyal Innocents they Guilty bring;</l>
+               <l>Reserve the Honour yet to <hi>Kill the KING.</hi>
+               </l>
+               <l>The <hi>Comets</hi> blaze, and the Portents, you know,</l>
+               <l>Did signifie the Nations Overthrow;</l>
+               <l>And You the Ministers of Fate must be,</l>
+               <l>The Hangmen-Murderers of ROYALTY.</l>
+               <l>No, Paracides, though you pervert the sence,</l>
+               <l>Heav'n is not pleas'd till you are hang'd from hence:</l>
+               <pb facs="tcp:65882:2"/>
+               <l> The Stars discover your dark PLOTS below,</l>
+               <l>Your malice would make Heav'n Guilty too:</l>
+               <l>Just like old <hi>Satan,</hi> when He did Rebel;</l>
+               <l>He once was good, You never; mend in Hell,</l>
+               <l>Since none but You could ever claim a Right</l>
+               <l>By horrid Murder to eternal night:</l>
+               <l>Had you succeeded, Oh what Seas of Blood</l>
+               <l>Had drown'd the World, and made a second Flood!</l>
+               <l>The Horrible Events no Man can think,</l>
+               <l>Blood-thirsty men, with drinking, thirst for drink.</l>
+               <l>Nothing but Death can quench their Furious Zeal;</l>
+               <l>No <hi>Plot</hi> nor <hi>Parliament</hi> his <hi>Acts</hi> repeal:</l>
+               <l>Those <hi>Lies,</hi> confirm'd by <hi>Oaths</hi> and <hi>Impudence,</hi>
+               </l>
+               <l>Were once believ'd by Men of soundest sence:</l>
+               <l>This, the deciding PLOT 'twixt Heav'n and Hell,</l>
+               <l>(Though you repent not,) shall confess you fell;</l>
+               <l>
+                  <hi>Lucifer</hi>-like, you curs'd ASSOCIATES</l>
+               <l>Thought your selves strong enough against the <hi>Fates.</hi>
+               </l>
+               <l>But Providence appears, the <hi>Fiends</hi> throws down,</l>
+               <l>And once again the ROYAL OAK does Crown:</l>
+               <l>How Guilt doth tremble now! How hide and flie!</l>
+               <l>The Innocents stood still, un-call'd, to die:</l>
+               <l>Down with your PILLAR, there in Rubbish lie,</l>
+               <l>The Pyramid of Truth's above the Skie:</l>
+               <l>The Sacred Monuments of Wise and Good</l>
+               <l>Are wash'd away from hence, like <hi>Noah</hi>'s Flood;</l>
+               <l>But true Tradition shall never die,</l>
+               <l>But blooming still to all Eternity.</l>
+               <l>Let all our Prayers, incens'd by true Zeal,</l>
+               <l>
+                  <hi>Defend Us from Fanatick-Commonweal.</hi>
+               </l>
+               <l>Devils believe, and (when compell'd) confess,</l>
+               <l>Yet Devils still; Our Criminals no less:</l>
+               <l>Not like true Penitents, confess all sin,</l>
+               <l>They hide the worst, the Devil's still within;</l>
+               <l>What the <hi>Scotch-Whig</hi> dares not, these Rebels do,</l>
+               <l>Both Will and Act into Damnation go,</l>
+               <l>Whilst We with Prayers, Offerings of Praise,</l>
+               <l>Send our Thanksgivings up for these past days:</l>
+               <lg>
+                  <l>Our days were almost spent; One minute more</l>
+                  <l>Had made <hi>Three Kingdoms</hi> like a <hi>Common-Shoar,</hi>
+                  </l>
+                  <l>Run down with Royal Blood of Purple Gore.</l>
+               </lg>
+               <l>Infinite Mercy, (wonderfully shown,)</l>
+               <l>Preserve the ROYAL BLOOD upon the Throne;</l>
+               <l>And that we may have Blessings, when we sing</l>
+               <l>Glory to GOD, Peace, Health unto the KING.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>N.T.</hi> at the Entrance into the <hi>Old-Spring-garden,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
